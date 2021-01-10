@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\General\MyString\bin\Debug\MyString.dll
+C:\Users\user\Desktop\General\MyString\bin\Debug\MyString.pdb
+C:\Users\user\Desktop\General\MyString\obj\Debug\MyString.dll
+C:\Users\user\Desktop\General\MyString\obj\Debug\MyString.pdb

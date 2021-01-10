@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\General\Usually\bin\Release\Usually.dll
+C:\Users\user\Desktop\General\Usually\bin\Release\Usually.pdb
+C:\Users\user\Desktop\General\Usually\obj\Release\Usually.dll
+C:\Users\user\Desktop\General\Usually\obj\Release\Usually.pdb

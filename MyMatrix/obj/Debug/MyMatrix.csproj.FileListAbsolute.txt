@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\General\MyMatrix\bin\Debug\MyMatrix.dll
+C:\Users\user\Desktop\General\MyMatrix\bin\Debug\MyMatrix.pdb
+C:\Users\user\Desktop\General\MyMatrix\obj\Debug\MyMatrix.dll
+C:\Users\user\Desktop\General\MyMatrix\obj\Debug\MyMatrix.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\General\General\bin\Release\General.exe
+C:\Users\user\Desktop\General\General\bin\Release\General.pdb
+C:\Users\user\Desktop\General\General\bin\Release\MyMatrix.dll
+C:\Users\user\Desktop\General\General\bin\Release\MyString.dll
+C:\Users\user\Desktop\General\General\bin\Release\Usually.dll
+C:\Users\user\Desktop\General\General\bin\Release\MyMatrix.pdb
+C:\Users\user\Desktop\General\General\bin\Release\MyString.pdb
+C:\Users\user\Desktop\General\General\bin\Release\Usually.pdb
+C:\Users\user\Desktop\General\General\obj\x86\Release\General.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\General\General\obj\x86\Release\General.exe
+C:\Users\user\Desktop\General\General\obj\x86\Release\General.pdb
